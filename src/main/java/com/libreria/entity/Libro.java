@@ -10,4 +10,5 @@ public class Libro
     private long id;
 
     private String titolo;
+    private String autore;
 }
